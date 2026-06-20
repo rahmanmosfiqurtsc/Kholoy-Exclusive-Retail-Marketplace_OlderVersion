@@ -66,8 +66,8 @@ const Categories = () => {
         <div className='pt-15'>
           <Slider {...settings}>
             
-            <div className='w-42.5![145px] border-2 border-[#00000039] rounded mx-3.5 hover:bg-[#DB4444] hover:text-white'>
-              <div className='text-[56px] px-14.25ppt-6.25pb-4'>
+            <div className='w-42.5! h-36.25 border-2 border-[#00000039] rounded mx-3.5 hover:bg-[#DB4444] hover:text-white'>
+              <div className='text-[56px] px-14.25 pt-6.25 pb-4'>
                 <CiMobile4 />
               </div>
               <h4 className='text-center items-center'>Phone</h4>
